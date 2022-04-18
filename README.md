@@ -1,14 +1,8 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Jay Hirpara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayhirpara28&label=Profile%20views&color=0e75b6&style=flat" alt="jayhirpara28" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayhirpara28" alt="jayhirpara28" /></a> </p>
 
 - 🔭 I’m currently working on **Appointment Booking Website**
 
