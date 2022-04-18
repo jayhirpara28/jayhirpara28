@@ -17,6 +17,14 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **HTML, Javascript, CSS, Tailwind**.
+- Backend development using **Node,js**.
+- Making for **Appointment Booking Website**.
+- Mobile application development using **Flutter**.(still Learning)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_jayhirpara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_jayhirpara" height="30" width="40" /></a>
